@@ -1,0 +1,19 @@
+{
+  "name": "mi-repertorio",
+  "version": "1.0.0",
+  "description": "Servidor Express CRUD para gestionar repertorio de canciones.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "repertorio"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
