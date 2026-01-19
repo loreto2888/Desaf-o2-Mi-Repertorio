@@ -4,5 +4,17 @@
     "titulo": "la vikina",
     "artista": "luis miguel",
     "tono": "agudo"
+  },
+  {
+    "id": 4,
+    "titulo": "La perla",
+    "artista": "Rosalia",
+    "tono": "Alto"
+  },
+  {
+    "id": 5,
+    "titulo": "La consentida",
+    "artista": "Guasos Quincheros",
+    "tono": "agudo"
   }
 ]
