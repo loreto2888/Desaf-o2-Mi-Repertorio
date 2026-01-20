@@ -1,0 +1,10 @@
+# Dependencias instaladas localmente
+node_modules/
+
+# Entornos y credenciales
+.env
+
+# Logs y diagnsticos
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
